@@ -10,7 +10,7 @@
   ```
 - Pindah ke repositori hasil clone dengan perintah berikut
   ```
-  cd Asistensi-08-Lab-Web-2022
+  cd Asistensi_Lab_Mobile_2023
   ```
 - Di dalam folder NIM kalian buat folder dengan nama "Pertemuan-<no_pertemuan>" tanpa tanda kutip dan tanda <>. contoh: Pertemuan-1
 - Di dalam folder pertemuan tersebut, kalian menambahkan file tugas praktikum yang telah kalian kerjakan
