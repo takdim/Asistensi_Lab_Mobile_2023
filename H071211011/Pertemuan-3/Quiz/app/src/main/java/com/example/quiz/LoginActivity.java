@@ -78,7 +78,7 @@ public class LoginActivity extends AppCompatActivity {
         }
 
         btn_apply.setOnClickListener(view -> {
-            if (et_name.getText().toString() == null){
+            if (et_name.getText().toString().isEmpty()){
                 et_name.setError("Input your name first");
             }else {
                 btn_play.setVisibility(View.VISIBLE);
