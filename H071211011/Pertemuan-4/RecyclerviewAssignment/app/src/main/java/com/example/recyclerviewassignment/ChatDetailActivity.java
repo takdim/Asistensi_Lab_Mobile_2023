@@ -6,6 +6,7 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.ImageButton;
@@ -54,7 +55,7 @@ public class ChatDetailActivity extends AppCompatActivity {
         rvDetail.setHasFixedSize(true);
         rvDetail.setLayoutManager(new LinearLayoutManager(this));
 
-        if (ChatFill.fills.size() == 3){
+        if (ChatFill.fills.size() == 15){
             ChatFill.fills.add(new ChatFillModel(chat.getChatTerbaru(), chat.getTime()));
         }else {
             ChatFill.fills.remove(ChatFill.fills.size()-1);
