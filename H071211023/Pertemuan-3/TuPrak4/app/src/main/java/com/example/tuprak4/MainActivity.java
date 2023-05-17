@@ -53,7 +53,7 @@ public class MainActivity extends AppCompatActivity {
                         startActivity(post);
                     }
                 } else {
-                    Toast.makeText(getApplicationContext(), "Please pick a photoprofile first", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(getApplicationContext(), "Please pick a photo profile first", Toast.LENGTH_SHORT).show();
                 }
             }
         });
