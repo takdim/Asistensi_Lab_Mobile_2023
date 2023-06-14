@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ProtoBootlegIG</string>
+    <string name="title">BootlegIG</string>
+    <string name="hello_blank">Hello Blank</string>
+    <string name="profile">Profile</string>
+    <string name="name">Muh Fajar Siddiq</string>
+    <string name="username">afreaktumxelentra</string>
+    <string name="insert_caption">Insert Caption</string>
+    <string name="upload">Upload</string>
+    <string name="no_posts">No posts yet</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
